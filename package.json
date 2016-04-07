@@ -1,0 +1,27 @@
+{
+  "name": "startrek",
+  "version": "0.1.0",
+  "description": "A Node.js module to insert inspiring StarTrek quotes into a site/application.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "star",
+    "trek",
+    "startrek",
+    "spock",
+    "enterprise",
+    "james",
+    "kirk",
+    "leonard",
+    "nimoy",
+    "quotes"
+  ],
+  "author": {
+    "name":"Aman Mittal",
+    "email":"amandeepmittal@live.com",
+    "web":"http://amandeepmittal.github.io"
+  },
+  "license": "MIT"
+}

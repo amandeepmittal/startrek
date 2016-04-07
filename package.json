@@ -23,5 +23,8 @@
     "email":"amandeepmittal@live.com",
     "web":"http://amandeepmittal.github.io"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "bugs": {
+    "url":"https://github.com/amandeepmittal/startrek/issues"
+  }
 }

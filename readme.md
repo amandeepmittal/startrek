@@ -1,5 +1,5 @@
 # StarTrek
-**startrek** is a Node.js module. This module allows one to insert inspiring StarTrek quotes in their Node.js sites/applications.
+**startrek** is a Node.js module to insert inspiring StarTrek quotes into a site/application or use within command-line.
 
 It also works with [command-line](#command-line).
 

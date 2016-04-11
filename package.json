@@ -1,6 +1,6 @@
 {
   "name": "startrek",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "A Node.js module to insert inspiring StarTrek quotes into a site/application.",
   "bin":{
     "startrek":"bin/startrek-cli.js"

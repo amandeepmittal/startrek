@@ -19,7 +19,7 @@ console.log(startrek());
 // "Live long and prosper..."
 ```
 
-** Command Line**
+### Command Line
 _startrek_ can be used in the command line.
 
 Install the package globally using npm:

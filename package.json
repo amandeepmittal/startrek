@@ -1,7 +1,10 @@
 {
   "name": "startrek",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Node.js module to insert inspiring StarTrek quotes into a site/application.",
+  "bin":{
+    "startrek":"bin/startrek-cli.js"
+  },
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

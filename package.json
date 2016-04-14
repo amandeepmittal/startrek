@@ -1,13 +1,15 @@
 {
   "name": "startrek",
-  "version": "1.2.0",
+  "version": "1.3.0",
   "description": "A Node.js module to insert inspiring StarTrek quotes into a site/application or use within command-line.",
   "bin":{
     "startrek":"bin/startrek-cli.js"
   },
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "install": "echo \"Thank you for installing!\"",
+    "postinstall": "echo \"You're welcome!\""
   },
   "keywords": [
     "star",

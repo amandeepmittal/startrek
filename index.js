@@ -5,4 +5,4 @@ BP                    BB       dBP               dBP          d8P.dBP
    dBP  dBP      dBP  BB  dBP  BB   dBP     dBP  BB  dBP    dBP BB
 dBBBBP'  dBP      dBBBBBBB dBP  dB'  dBP     dBP  dB' dBBBBP dBP dBP
 */
-module.exports = require('./startrek');
+module.exports = require('./lib/startrek');

@@ -1,4 +1,6 @@
 # StarTrek
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/amandeepmittal/startrek.svg)](https://greenkeeper.io/)
 **startrek** is a Node.js module to insert inspiring StarTrek quotes into a site/application or use within command-line.
 
 It also works with [command-line](#command-line).
